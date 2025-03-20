@@ -24,6 +24,21 @@
 
 ---
 
+## 🚀 Live Demo  
+
+Check out my projects in action! Click below to explore:  
+
+| Project | Description | Live Demo |
+|---------|------------|-----------|
+| **📝 Note-Taking App** | A simple and effective note-taking tool | [Live Demo](https://guruprasath-og.github.io/note-taking-app/) |
+| **Color Hex Code Generator** 🎨 | Generate random hex color codes | [Live Demo](https://guruprasath-og.github.io/JavaScriptMiniProject/colorflipperapp/) |
+| **Timer App** ⏳ | A simple countdown timer | [Live Demo](https://guruprasath-og.github.io/JavaScriptMiniProject/stopwathapp/) |
+| **Rock-Paper-Scissors** ✊✋✌ | Play the classic game | [Live Demo](https://guruprasath-og.github.io/RockPaperScissors/) |
+| **Calculator** ➗ | A fully functional calculator | [Live Demo](https://guruprasath-og.github.io/calculator/) |
+
+🔗 **View All Projects:** [Project Showcase](https://guruprasath-og.github.io/JavaScriptMiniProject)  
+
+---
 ### 🛠️ Tech Stack  
 
 #### 💻 Programming & Scripting  
