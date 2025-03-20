@@ -4,18 +4,36 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasath-og&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasath-og" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasath-og" alt="guruprasath-og" /></a> </p>
+### 🚀 About Me  
 
-- 🔭 I’m currently working on **Adobe Experience Manager**
+- 🔭 I’m currently working on **Adobe Experience Manager**, diving deep into enterprise-level content management.  
+- 🌱 I’m currently leveling up in **JavaScript, AEM, Spring Boot** to sharpen my backend and frontend game.  
+- 🎯 I love **solving complex problems**, whether it’s debugging tricky code or optimizing performance.  
+- 🏗️ I’ve built **a Color Hex Code Generator, Timer App, Rock-Paper-Scissors Game, and a Calculator in JavaScript** – and I’m just getting started!  
+- 🤝 I’m looking to collaborate on **Java Spring projects** and real-world web applications.  
+- 🐧 Hardcore **Linux Enthusiast** – I use **Arch, btw** 😎  
+- 💬 Ask me about **Linux, Java, Spring, Docker, and PC Hardware** – I love deep tech discussions!  
+- 📫 How to reach me **gprasath186@gmail.com**  
+- ⚡ Fun fact: **I break things just to fix them better!** 🔥  
 
-- 🌱 I’m currently learning **javascript,AEM,springboot**
+---
 
-- 🤝 I’m looking for help with **java spring projects**
+### 🛠️ My Tech Stack  
 
-- 💬 Ask me about **Linux,Java,Spring**
+#### 💻 Programming & Scripting  
+Java | Python | JavaScript  
 
-- 📫 How to reach me **gprasath186@gmail.com**
+#### 🌍 Web Development  
+HTML | CSS | JavaScript  
 
-- ⚡ Fun fact **I use Arch Btw**
+#### ⚙️ Frameworks & Tools  
+Spring Boot | Hibernate | Docker  
+
+#### 🐧 Operating System  
+Linux | Arch Linux  
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
