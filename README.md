@@ -30,7 +30,7 @@ Check out my projects in action! Click below to explore:
 
 | Project | Description | Live Demo |
 |---------|------------|-----------|
-| **📝 Note-Taking App** | A simple and effective note-taking tool | [Live Demo](https://guruprasath-og.github.io/javscript/stickynotesapp/) |
+| **📝 Note-Taking App** | A simple and effective note-taking tool | [Live Demo](https://guruprasath-og.github.io/javascript/stickynotesapp/) |
 | **Color Hex Code Generator** 🎨 | Generate random hex color codes | [Live Demo](https://guruprasath-og.github.io/JavaScriptMiniProject/colorflipperapp/) |
 | **Timer App** ⏳ | A simple countdown timer | [Live Demo](https://guruprasath-og.github.io/JavaScriptMiniProject/stopwathapp/) |
 | **Rock-Paper-Scissors** ✊✋✌ | Play the classic game | [Live Demo](https://guruprasath-og.github.io/JavaScriptMiniProject/RockPaperScissors/) |
