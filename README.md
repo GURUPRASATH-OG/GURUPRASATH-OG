@@ -89,8 +89,6 @@ Check out my projects in action! Click below to explore:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="500">
-</p>
+
 
 🔥 **Let's break things, fix them, and build something amazing together!** 🚀  
